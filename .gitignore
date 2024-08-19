@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+bin
+etc
+include
+lib
+share
+Breast_Cancer.ipynb
+predict_breast_cancer.ipynb
+pyvenv.cfg
